@@ -5,6 +5,9 @@ This is an experiment for a terminal-based renderer for imgui. It's raw, unfinis
 
 This library is a modification of [dear imgui](https://github.com/ocornut/imgui)
 
+A video of this library in action
+https://www.youtube.com/watch?v=OEGb4HrMkDo
+
 
 Build instructions
 ===
